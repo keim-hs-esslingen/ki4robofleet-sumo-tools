@@ -1,6 +1,6 @@
 # Creating Traffic in SUMO with routeSampler 
 
-### To create routes with routeSampler.py from counting data need the following files:
+### To create routes with routeSampler.py from counting data, we need the following files:
 
 + osm.net.xml : the SUMO net file 
 + myDetectors.xml : the file the traffic counting detector position
